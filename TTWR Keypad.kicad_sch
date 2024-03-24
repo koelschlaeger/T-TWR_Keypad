@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "445bfb24-ddea-4c3c-adf0-194f61df2295")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 52.07 17.78)
+		(size 36.83 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "13a6b4d8-28e1-43bc-9d4a-d800e46e1b52")
+		(property "Sheetname" "IO Expander"
+			(at 52.07 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IO Expander.kicad_sch"
+			(at 52.07 37.4146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TTWR Keypad"
+				(path "/445bfb24-ddea-4c3c-adf0-194f61df2295"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 17.78)
+		(size 30.48 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "373e8af0-0131-4dad-ba75-a0fe3a5e3089")
+		(property "Sheetname" "Keypad"
+			(at 15.24 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "keypad.kicad_sch"
+			(at 15.24 37.4146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TTWR Keypad"
+				(path "/445bfb24-ddea-4c3c-adf0-194f61df2295"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
