@@ -500,4 +500,15 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "28b5a7c9-d50c-4270-9da9-d8fb22b19802")
 	)
+	(model "${KIPRJMOD}/symbols/PTS526_SK15_SMTR2_LFS.stp"
+		(offset
+			(xyz 0 0 0.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
+	)
 )
