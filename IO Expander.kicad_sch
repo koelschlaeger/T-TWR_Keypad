@@ -3169,7 +3169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/885012205001.pdf"
 			(at 44.45 38.1 0)
 			(effects
 				(font
@@ -3239,7 +3239,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R61A106ME11-01A.pdf"
 			(at 34.29 38.1 0)
 			(effects
 				(font
@@ -3309,7 +3309,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20066/rcce3.pdf"
 			(at 73.66 48.26 0)
 			(effects
 				(font
@@ -3379,7 +3379,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20066/rcce3.pdf"
 			(at 217.17 68.58 0)
 			(effects
 				(font
@@ -3782,7 +3782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20066/rcce3.pdf"
 			(at 83.82 48.26 0)
 			(effects
 				(font
@@ -3822,7 +3822,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "87dff672-68c1-412a-81dd-6a41d7f92df1")
 		(property "Reference" "J2"
 			(at 52.07 83.185 0)
@@ -3948,7 +3948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:PCF8574RGTR"
+		(property "Footprint" "footprints:SOT162-1_NXP-M"
 			(at 147.32 72.39 0)
 			(effects
 				(font
@@ -3958,7 +3958,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "PCF8574DWR"
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/PCF8574_PCF8574A.pdf"
 			(at 175.514 81.28 0)
 			(effects
 				(font
@@ -4136,7 +4136,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20066/rcce3.pdf"
 			(at 93.98 48.26 0)
 			(effects
 				(font
@@ -4177,7 +4177,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b067f6a7-a615-4be3-b146-bc69e235c779")
 		(property "Reference" "J1"
 			(at 260.35 84.455 0)
@@ -4381,7 +4381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20066/rcce3.pdf"
 			(at 224.79 68.58 0)
 			(effects
 				(font

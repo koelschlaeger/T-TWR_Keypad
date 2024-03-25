@@ -1616,4 +1616,15 @@
 		(layers "F.Cu")
 		(uuid "f12d0ad0-510e-4ce6-9921-d74102eda674")
 	)
+	(model "${KIPRJMOD}/symbols/RGT0016B.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
