@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+10u,C1,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C19702
+PTS526 SK15 SMTR2 LFS,"U1,U10,U11,U12,U13,U14,U15,U16,U2,U3,U4,U5,U6,U7,U8,U9",PTS526_SK15_SMTR2_LFS,C221856
+10k,"R1,R2,R3,R4,R5",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25804
+0.1u,C2,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C3011705
+PCF8574DWR,U17,SOT162-1_NXP-M,C7605
+1N4148W,"D1,D10,D11,D12,D13,D14,D15,D16,D2,D3,D4,D5,D6,D7,D8,D9",D_SOD-123,C81598
+SolderJumper_2_Open,JP4,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,
+SolderJumper_2_Open,JP3,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,
+SolderJumper_2_Open,JP1,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,
+SolderJumper_2_Open,JP2,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,

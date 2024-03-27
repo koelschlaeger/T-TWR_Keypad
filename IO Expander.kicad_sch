@@ -3160,7 +3160,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 45.4152 41.91 0)
 			(effects
 				(font
@@ -3230,7 +3230,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 35.2552 41.91 0)
 			(effects
 				(font
@@ -3300,7 +3300,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 71.882 48.26 90)
 			(effects
 				(font
@@ -3370,7 +3370,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 215.392 68.58 90)
 			(effects
 				(font
@@ -3773,7 +3773,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 82.042 48.26 90)
 			(effects
 				(font
@@ -3820,9 +3820,9 @@
 		(at 54.61 82.55 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "87dff672-68c1-412a-81dd-6a41d7f92df1")
 		(property "Reference" "J2"
 			(at 52.07 83.185 0)
@@ -3965,6 +3965,7 @@
 					(size 1.27 1.27)
 					(italic yes)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" ""
@@ -4127,7 +4128,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 92.202 48.26 90)
 			(effects
 				(font
@@ -4175,9 +4176,9 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "b067f6a7-a615-4be3-b146-bc69e235c779")
 		(property "Reference" "J1"
 			(at 260.35 84.455 0)
@@ -4372,7 +4373,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 223.012 68.58 90)
 			(effects
 				(font
