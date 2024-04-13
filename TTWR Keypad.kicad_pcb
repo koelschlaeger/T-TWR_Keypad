@@ -8872,6 +8872,7 @@
 		(property "Reference" "JP4"
 			(at 0 1.8 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "0f24397a-a3cf-447f-89d8-710349cb8872")
 			(effects
 				(font
@@ -8881,10 +8882,9 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "SolderJumper_2_Open"
+		(property "Value" "INT"
 			(at 0 -1.9 90)
-			(layer "B.Fab")
-			(hide yes)
+			(layer "B.SilkS")
 			(uuid "2828d684-bcf4-49bc-aaf6-1fc1da530ed7")
 			(effects
 				(font
@@ -8934,7 +8934,7 @@
 		(path "/13a6b4d8-28e1-43bc-9d4a-d800e46e1b52/61fa1b4a-3f4d-4dbe-821f-54e8bf4a522f")
 		(sheetname "IO Expander")
 		(sheetfile "IO Expander.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -0.7 1)
 			(end 0.7 1)
@@ -10008,6 +10008,7 @@
 		(property "Reference" "JP3"
 			(at -2.35 0 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "1b9ecf6a-dcbe-4ad4-a321-16b55f3ae9da")
 			(effects
 				(font
@@ -10017,10 +10018,9 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 0 -1.9 0)
-			(layer "B.Fab")
-			(hide yes)
+		(property "Value" "A2"
+			(at -2.325 0 -90)
+			(layer "B.SilkS")
 			(uuid "603d85c1-4e3f-4edf-8246-092ef944147a")
 			(effects
 				(font
@@ -10070,7 +10070,7 @@
 		(path "/13a6b4d8-28e1-43bc-9d4a-d800e46e1b52/f5cb8937-f7f7-4e37-9759-c531e0d142ee")
 		(sheetname "IO Expander")
 		(sheetfile "IO Expander.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.4 -0.3)
 			(end -1.4 0.3)
@@ -10927,6 +10927,7 @@
 		(property "Reference" "JP1"
 			(at -2.35 0 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "f2bddd83-ff22-4059-ac43-b617a4b17bd7")
 			(effects
 				(font
@@ -10936,10 +10937,9 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 0 -1.9 0)
-			(layer "B.Fab")
-			(hide yes)
+		(property "Value" "A0"
+			(at -2.325 0.025 -90)
+			(layer "B.SilkS")
 			(uuid "86e24d75-dc75-427b-8f50-7dffb4ed5436")
 			(effects
 				(font
@@ -10989,7 +10989,7 @@
 		(path "/13a6b4d8-28e1-43bc-9d4a-d800e46e1b52/2d8d2d6a-060d-40f2-a80a-714674b0d259")
 		(sheetname "IO Expander")
 		(sheetfile "IO Expander.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.4 -0.3)
 			(end -1.4 0.3)
@@ -14404,7 +14404,7 @@
 		(path "/13a6b4d8-28e1-43bc-9d4a-d800e46e1b52/87dff672-68c1-412a-81dd-6a41d7f92df1")
 		(sheetname "IO Expander")
 		(sheetfile "IO Expander.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -0.695 -14.56)
 			(end -0.695 -0.685)
@@ -14838,7 +14838,7 @@
 		(path "/13a6b4d8-28e1-43bc-9d4a-d800e46e1b52/b067f6a7-a615-4be3-b146-bc69e235c779")
 		(sheetname "IO Expander")
 		(sheetfile "IO Expander.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -0.695 -14.56)
 			(end -0.695 -0.685)
@@ -15966,6 +15966,7 @@
 		(property "Reference" "JP2"
 			(at -2.35 0 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "cb8f6be5-4603-45e4-9c2b-f0cf38216eec")
 			(effects
 				(font
@@ -15975,10 +15976,9 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 0 -1.9 0)
-			(layer "B.Fab")
-			(hide yes)
+		(property "Value" "A1"
+			(at -2.35 0.0125 -90)
+			(layer "B.SilkS")
 			(uuid "b16b5093-2c72-4ab2-a8ea-03bb25893797")
 			(effects
 				(font
@@ -16028,7 +16028,7 @@
 		(path "/13a6b4d8-28e1-43bc-9d4a-d800e46e1b52/208c56c4-c42a-4062-90c0-8f966189685c")
 		(sheetname "IO Expander")
 		(sheetfile "IO Expander.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.4 -0.3)
 			(end -1.4 0.3)
@@ -18781,6 +18781,198 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "f3ceafda-bf29-45e2-833c-cae0ec84a2e4")
+	)
+	(gr_text "#"
+		(at 177.225 82.325 0)
+		(layer "F.SilkS")
+		(uuid "038c43d8-05e3-473f-9539-7e7e93e1acde")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "*"
+		(at 157.303048 82.325 0)
+		(layer "F.SilkS")
+		(uuid "1176b4fe-ddf1-46e1-809d-97487a4c204a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "5"
+		(at 167.22381 62.3 0)
+		(layer "F.SilkS")
+		(uuid "247ca493-3a67-4036-ad1e-fab26d175ec9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "8"
+		(at 167.22381 72.275 0)
+		(layer "F.SilkS")
+		(uuid "2830bfa1-06fb-4d8a-ae43-f405e25f2c71")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "6"
+		(at 177.24881 62.3 0)
+		(layer "F.SilkS")
+		(uuid "2993bba7-5683-4cb7-8827-f6a67b57c4ae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "ESC"
+		(at 153.446429 41.9 0)
+		(layer "F.SilkS")
+		(uuid "30de8ae4-a18a-458e-8e80-49911820222a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "UP"
+		(at 162.351191 41.9 0)
+		(layer "F.SilkS")
+		(uuid "453cac0b-d78c-4719-afc7-abe7cc0f3130")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "2"
+		(at 167.22381 52.35 0)
+		(layer "F.SilkS")
+		(uuid "5ad80590-35c9-4f4c-8378-5d0a0c8bf3f1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "DOWN"
+		(at 169.755953 41.9 0)
+		(layer "F.SilkS")
+		(uuid "8575e429-ec46-4399-82a0-f13d7dccb1aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "0"
+		(at 167.22381 82.325 0)
+		(layer "F.SilkS")
+		(uuid "a3772bcf-d139-4e48-97b3-fe08173b7725")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "7"
+		(at 157.20781 72.275 0)
+		(layer "F.SilkS")
+		(uuid "ba953b61-bb9b-4220-b2a2-1c0d928c6dee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "4"
+		(at 157.20781 62.3 0)
+		(layer "F.SilkS")
+		(uuid "c771631d-4c26-4200-a740-b7f6e2d7abc9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "1"
+		(at 157.20781 52.35 0)
+		(layer "F.SilkS")
+		(uuid "cc7f04d2-96df-4fe3-91b7-44a6d281e3b1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SEL"
+		(at 179.041667 41.9 0)
+		(layer "F.SilkS")
+		(uuid "e2700c96-8b0c-434c-bc6d-20c490138294")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "9"
+		(at 177.24881 72.275 0)
+		(layer "F.SilkS")
+		(uuid "f206ba8a-c59c-43d0-8f17-f1c450157b97")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "3"
+		(at 177.24881 52.35 0)
+		(layer "F.SilkS")
+		(uuid "f86f333e-543c-4794-ad77-0de392d41d36")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 153.3131 43)
